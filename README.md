@@ -36,8 +36,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/maxtmiller/Crypto-Companion.git
-   cd Crypto-Companion
+   git clone https://github.com/maxtmiller/CryptoCompanion.git
+   cd CryptoCompanion
    ```
 2. Install dependencies:
 
